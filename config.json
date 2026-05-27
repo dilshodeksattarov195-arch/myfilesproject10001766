@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdalidate",
+        "uuid": 2894474,
+        "checksum": "i5doh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
